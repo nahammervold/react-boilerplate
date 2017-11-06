@@ -6,7 +6,9 @@ Boilerplate code for React. This boilerplate has webpack set up so that we could
 
 2. [Webpack](https://webpack.js.org/) (should be installed globally) used for packaging up the React code
 
-3. (Optional) [Make](https://www.gnu.org/software/make/manual/make.html) contains all the commands for development/release that could be ran with make
+3. [Docker](https://www.docker.com/get-docker) used to encapsulate application in a predictable environment 
+
+4. (Optional) [Make](https://www.gnu.org/software/make/manual/make.html) contains all the commands for development/release that could be ran with make
 
 ## Usage
 
